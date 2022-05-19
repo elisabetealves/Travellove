@@ -1,70 +1,106 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <br>
+    <p align="center" style="color: #0000FF; font-weight: bold;">🚀 Travellove</p>
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>
 
-## Available Scripts
+<p align="justify"> <strong>Trevellove</strong> é uma agência de viagem focada na sua expeciência e satisfação. Venha explorar os melhores lugares. Temos pacotes e promoções que cabem no seu bolso. Estamos aqui para proporcionar a você e sua família experiências inesquecíveis!</p>
 
-In the project directory, you can run:
+<br>
 
-### `npm start`
+<h1>
+    <br>
+    <p style="color: #0000FF; font-weight: bold;">🧠 Contexto</p>
+</h1>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Travellove é uma página simples desenvolvida em react para testa meu aprendizado.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Link do Surge
+- Layout (Desktop / Tablet / Mobile)
+- Tecnologias Utilizadas
+- Saudações da Eli!
 
-### `npm test`
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h1>
+    <br>
+    <p style="color: #0000FF; font-weight: bold;">🔗 Link do projeto no Surge</p>
+</h1>
 
-### `npm run build`
+https://worthless-quarter.surge.sh/
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h1>
+    <br>
+    <p style="color: #0000FF; font-weight: bold;">🎨 Layout</p>
+</h1>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Web
 
-### `npm run eject`
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+     <img src="./src/assets/viagem1.png" width="400px">
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+     <img src="./src/assets/viagem2.png" width="400px">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## </p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Tablet
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p align="center">
+     <img src="./src/assets/viagem3.png"  width="200px">
+</p>
+<p align="center">
+     <img src="./src/assets/viagem4.png" width="200px"> 
+</p>
+<p align="center">
+     <img src="./src/assets/viagem5.png" width="200px"> 
+</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Mobile
 
-## Learn More
+<p align="center">
+     <img src="./src/assets/viagem6.png"  width="200px">
+     <img src="./src/assets/viagem7.png" width="200px">
+     <img src="./src/assets/viagem8.png" width="200px">
+  
+</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h1>
+    <br>
+    <p style="color: #0000FF; font-weight: bold;">🛠️ Tecnologias Utilizadas</p>
+</h1>
 
-### Code Splitting
+ <div style="display: inline_block"><br>
+ 
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ 
+</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<br>
 
-### Analyzing the Bundle Size
+<h1>
+    <br>
+    <p style="color: #0000FF; font-weight: bold;">👋 Saudações, Eli!</p>
+</h1>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+_Caso queira contribuir com meu projeto, será totalmente bem-vindx!!!_
+_Qualquer dúvida ou sugestão, chama no contatinho!_
 
-### Making a Progressive Web App
+ <img  style="border-radius: 10%;" src="https://i.picasion.com/pic91/8dd880c47cfc761e805745c941097adb.gif" alt="Gif Yeah" width="200">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Vamos nos conectar!
 
-### Advanced Configuration
+- [LinkedIn](https://www.linkedin.com/in/elisabete-a-santos/)
+- [GitHub](https://github.com/elisabetealves)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<br>
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Feito com 💕 e muita dedicação
